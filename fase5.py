@@ -4,7 +4,7 @@ sesiones = []
 # Cantidad de sesiones a ingresar
 cantidad = int(input("¿Cuántas sesiones desea registrar?: "))
 
-# Ingreso de datos por el usuario.
+# Ingreso de datos por el usuario
 for i in range(cantidad):
 
     print(f"\n--- Sesión {i + 1} ---")
